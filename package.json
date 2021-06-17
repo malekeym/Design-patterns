@@ -1,0 +1,24 @@
+{
+  "name": "Design-patterns",
+  "version": "1.0.0",
+  "description": "Design patterns of OOP in different language",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malekeym/Design-patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malekeym/Design-patterns/issues"
+  },
+  "homepage": "https://github.com/malekeym/Design-patterns#readme",
+  "devDependencies": {
+    "typescript": "^4.3.3"
+  }
+}
